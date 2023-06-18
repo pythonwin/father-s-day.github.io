@@ -1,0 +1,21 @@
+p{
+    font-family:myfont;
+        }
+@font-face{
+    font-family:myfont;
+    src:url(font/迷你简硬笔行书.TTF);
+    font-weight:normal;   
+    font-style:normal;
+        }
+html,body{
+margin:0px;
+width:100%;
+height:100%;
+overflow:hidden;
+background:#000;
+}
+
+#canvas{
+width:100%;
+height:100%;
+}

@@ -1,0 +1,11 @@
+.a{
+    text-align: center;
+}
+.pic:hover{
+    transform: scale(1);
+    border: 5px solid Green;
+    border-radius: 20px;
+}
+.text:hover{
+    color: red;
+}
